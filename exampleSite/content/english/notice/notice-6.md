@@ -1,11 +1,12 @@
 ---
-title: ргигшришгригшршгиргорниригш
+title: hhhhhhhhhhhhhhhhhhhhhhh
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 download_link: "#"
+draft: true
 
 ---
 ### About Notice
