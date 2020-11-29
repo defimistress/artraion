@@ -6,7 +6,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 download_link: "#"
-draft: true
 
 ---
 ### About Notice
