@@ -54,7 +54,7 @@ banner_feature:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 about:
-  enable: false
+  enable: true
   title: À propos d’Educenter
   image: images/about/about-us.jpg
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
