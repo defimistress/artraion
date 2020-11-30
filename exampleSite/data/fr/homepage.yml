@@ -103,5 +103,5 @@ funfacts:
   - name: CLIENTS SATISFAITS
     count: "1400"
 blog:
-  enable: false
+  enable: true
   title: DERNIÈRES NOUVELLES
