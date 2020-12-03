@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "flowers"
+title = "пространственное развитие"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
