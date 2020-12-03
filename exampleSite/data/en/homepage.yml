@@ -8,12 +8,12 @@ slider:
     animation_in: ''
     animation_out: ''
     button: ''
-  - title: Your bright future is our mission
+  - title: FinalYour bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
     animation_in: left
-    animation_out: right
+    animation_out: left
     button:
       enable: true
       label: Apply now
