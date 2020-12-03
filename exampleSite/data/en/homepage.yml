@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: "/media/giphy.gif"
+  bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: ''
     content: ''
