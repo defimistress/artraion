@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: "/images/158348886245.jpg"
 category: Photography
-teacher: Duis Rio
+teacher: Duis Chioi
 duration: 06 Month
 weekly: 03 hours
 fee: 'From: $699'
