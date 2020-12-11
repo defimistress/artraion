@@ -37,7 +37,7 @@ name = "research"
 [[menu.main]]
 URL = "contact"
 name = "контакты"
-weight = "5"
+weight = "4"
 [[menu.main]]
 URL = "about"
 name = "About"
