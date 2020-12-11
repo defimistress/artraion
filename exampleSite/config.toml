@@ -20,6 +20,9 @@ languageCode = "ru-ru"
 languageName = "Ru"
 weight = 2
 [[menu.footer]]
+URL = "scholarships"
+name = "дидюля"
+[[menu.footer]]
 URL = "teacher"
 name = "teacher"
 [[menu.footer]]
