@@ -29,9 +29,6 @@ name = "notice"
 URL = "event"
 name = "event"
 [[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
 URL = "research"
 name = "research"
 [[menu.main]]
