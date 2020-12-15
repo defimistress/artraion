@@ -79,7 +79,7 @@ email = "info@educenter.com"
 google_analitycs_id = ""
 logo = "/images/1logo-new.png"
 mobile = "+211234565523"
-top_header = true
+top_header = false
 [params.cookies]
 enable = true
 expire_days = 2
