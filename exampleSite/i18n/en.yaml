@@ -49,8 +49,6 @@
   translation: More Events
 - id: join
   translation: Join
-- id: enter_email
-  translation: Enter your email…
 - id: company
   translation: company
 - id: links
