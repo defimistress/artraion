@@ -10,7 +10,7 @@ slider:
     animation_in: left
     animation_out: left
     button:
-      enable: true
+      enable: false
       label: Apply now
       link: contact
   - title: Your bright future is our mission
@@ -20,7 +20,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Apply now
       link: contact
   - title: Your bright future is our mission
@@ -30,7 +30,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Apply now
       link: contact
 banner_feature:
