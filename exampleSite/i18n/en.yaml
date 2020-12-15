@@ -1,4 +1,6 @@
 ---
+- id: email
+  translation: email
 - id: read_more
   translation: Read More
 - id: contact_form
