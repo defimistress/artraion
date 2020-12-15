@@ -59,8 +59,6 @@
   translation: new notice
 - id: call
   translation: call
-- id: email
-  translation: email
 - id: all
   translation: All
 - id: interest
