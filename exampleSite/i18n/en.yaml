@@ -49,8 +49,6 @@
   translation: Event Speakers
 - id: more_event
   translation: More Events
-- id: join
-  translation: Join
 - id: company
   translation: company
 - id: links
