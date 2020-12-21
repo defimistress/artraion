@@ -43,10 +43,6 @@ URL = "about"
 name = "About"
 weight = "4"
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 3
